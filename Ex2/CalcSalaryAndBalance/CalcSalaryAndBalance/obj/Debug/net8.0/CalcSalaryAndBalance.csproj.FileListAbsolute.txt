@@ -1,0 +1,14 @@
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\bin\Debug\net8.0\CalcSalaryAndBalance.exe
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\bin\Debug\net8.0\CalcSalaryAndBalance.deps.json
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\bin\Debug\net8.0\CalcSalaryAndBalance.runtimeconfig.json
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\bin\Debug\net8.0\CalcSalaryAndBalance.dll
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\bin\Debug\net8.0\CalcSalaryAndBalance.pdb
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\CalcSalaryAndBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\CalcSalaryAndBalance.AssemblyInfoInputs.cache
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\CalcSalaryAndBalance.AssemblyInfo.cs
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\CalcSalaryAndBalance.csproj.CoreCompileInputs.cache
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\CalcSalaryAndBalance.dll
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\refint\CalcSalaryAndBalance.dll
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\CalcSalaryAndBalance.pdb
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\CalcSalaryAndBalance.genruntimeconfig.cache
+D:\Khang\Ki5\PRN212\ExOOP\Ex2\CalcSalaryAndBalance\CalcSalaryAndBalance\obj\Debug\net8.0\ref\CalcSalaryAndBalance.dll

@@ -1,0 +1,14 @@
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\bin\Debug\net8.0\CalcSalary.exe
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\bin\Debug\net8.0\CalcSalary.deps.json
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\bin\Debug\net8.0\CalcSalary.runtimeconfig.json
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\bin\Debug\net8.0\CalcSalary.dll
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\bin\Debug\net8.0\CalcSalary.pdb
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\CalcSalary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\CalcSalary.AssemblyInfoInputs.cache
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\CalcSalary.AssemblyInfo.cs
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\CalcSalary.csproj.CoreCompileInputs.cache
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\CalcSalary.dll
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\refint\CalcSalary.dll
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\CalcSalary.pdb
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\CalcSalary.genruntimeconfig.cache
+D:\Khang\Ki5\PRN212\ExOOP\Ex1\CalcSalary\CalcSalary\obj\Debug\net8.0\ref\CalcSalary.dll
